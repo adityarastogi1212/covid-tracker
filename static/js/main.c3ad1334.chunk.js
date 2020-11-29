@@ -12,7 +12,7 @@
             }
         },
         129: function(e, t, a) {
-            e.exports = a.p + "C:\\Users\\Ankur%20Jaiswal\\Desktop\\world19covid.web.app\\static\\media\\image.d7265326.png"
+            e.exports = a.p + "C:\\Users\\Ankur%20Jaiswal\\Desktop\\covid-tracker\\static\\media\\image.d7265326.png"
         },
         134: function(e, t, a) {
             e.exports = a(255)
